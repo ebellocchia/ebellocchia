@@ -1,4 +1,5 @@
 Hey everyone! 👋
+
 I'm Emanuele, Italian by origin but living in Germany.
 
 I'm a software developer working mainly with C++ and Python, though I love exploring and experimenting with new languages.
